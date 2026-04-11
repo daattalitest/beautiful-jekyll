@@ -24,6 +24,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
+    
   Author's home: "https://deanattali.com"
 
 ################
@@ -58,6 +59,7 @@ social-network-links:
   patreon: DeanAttali
   youtube: "@daattali"
   whatsapp: 15551212
+  newsite: daattali
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
